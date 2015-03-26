@@ -1,0 +1,11 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
+https://www.udacity.com/course/viewer#!/c-ud015-nd/l-2794468538/m-2765728544
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call
+https://github.com/udacity/fend-office-hours/blob/master/OfficeHoursReview2_5_2015_OOJS/OfficeHoursReview2_5_2015.md
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#drawImage%28%29
+http://www.kirupa.com/html5/animating_with_requestAnimationFrame.htm
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+https://github.com/marquete/kibo
+http://stackoverflow.com/questions/4959975/generate-random-value-between-two-numbers-in-javascript
+https://www.youtube.com/watch?v=ghqD3e37R7E
+https://www.youtube.com/watch?v=NZHzgXFKfuY
