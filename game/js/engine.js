@@ -165,10 +165,14 @@ var Engine = (function(global) {
 
         player.render();
 
-        hearts.update();
+        hearts.render();
 
         drawScoreBoard();
 
+        // Following is for development, to draw collision boxes on screen
+        // on top of Sprites.
+        // To turn ON: In index.html, set #drawCBs to display:block in index.html
+        // It is turned OFF by default
         var cbcb = document.getElementById('drawCBs'); // collision box check box
         if (cbcb.checked) {
             player.renderCB();
@@ -177,10 +181,9 @@ var Engine = (function(global) {
             });
             bonus.renderCB();
         }
-
     }
 
-    /* This function does nothing but it could have been a good place to
+    /* This function only resets the enemy count to zero for now, but it could
      * handle game reset states - maybe a new game menu or a game over screen
      * those sorts of things. It's only called once by the init() method.
      */

@@ -9,3 +9,4 @@ https://github.com/marquete/kibo
 http://stackoverflow.com/questions/4959975/generate-random-value-between-two-numbers-in-javascript
 https://www.youtube.com/watch?v=ghqD3e37R7E
 https://www.youtube.com/watch?v=NZHzgXFKfuY
+http://www.pythontutor.com/visualize.html#
