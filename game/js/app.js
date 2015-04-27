@@ -41,7 +41,7 @@ ADVANCED TODO:
 /* Contents / Summary
 
 Generic Functions
-    randInt() // for getting random intergers
+    randInt() // for getting random integers
 Game Constants
     IMGHEAD, COLUMNS, ROWS // image handling and layout
 Game Settings
@@ -402,7 +402,6 @@ Player.prototype.jump = function(dx, dy) {
     // Jumping into water? Death to player if newY is in top row of water
     if (newY <= 0 - IMGHEAD) {
         this.deathBy('drowning');
-        this.reset();
         return;
     }
 
