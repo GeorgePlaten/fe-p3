@@ -1,5 +1,4 @@
 #Frogger Clone
-===============================
 
 ##How to set up this game
 If you'd like to play this game online, just go to
@@ -15,11 +14,10 @@ these instructions:
 
 3. Now navigate through the **fe-p3-master** and **game** folders.
 
-4. In the **game** folder, open the **index.html** file. This will
-  run the game in your web browser. If index.html opens in a
-  in another application, you can just drag it to your browser
-  window instead.
+4. In the **game** folder, open the **index.html** file.
+This will run the game in your web browser.
 
+If index.html opens in a in another application, you can just drag index.html to your browser window instead.
 
 ##How to play
 
