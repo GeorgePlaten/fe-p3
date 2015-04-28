@@ -1,3 +1,4 @@
+"use strict";
 /* MileStones:
 
 BASIC TODO:
@@ -629,7 +630,12 @@ var spawnBonuses = function() {
     } else {
         // Otherwise it will delete any current bonuses
         // and create a new one at the spawn location
-        delete(bonus);
         bonus = new Bonus();
     }
 };
+
+
+// Get ready for game
+var player = new Player();
+var hearts = new Hearts();
+var bonus = new Bonus();
